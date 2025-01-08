@@ -29,7 +29,7 @@ Ensure the following before running the script:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Neko-Room-Installer/neko-rooms-installer.git
+   git clone https://github.com/H1ghSyst3m/Neko-Room-Installer.git
    cd neko-rooms-installer
    ```
 
