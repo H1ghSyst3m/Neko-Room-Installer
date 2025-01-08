@@ -598,6 +598,7 @@ echo -e "${GREEN}Script generated: /usr/local/bin/manage_htpasswd.sh${NC}"
 echo -e "${YELLOW}You can use this script to manage admin panel users:${NC}"
 echo -e "${YELLOW}  - Add user: /usr/local/bin/manage_htpasswd.sh add <username>${NC}"
 echo -e "${YELLOW}  - Remove user: /usr/local/bin/manage_htpasswd.sh remove <username>${NC}"
+echo -e "${YELLOW}  - Change password: /usr/local/bin/manage_htpasswd.sh change-password <username>${NC}"
 echo -e "${YELLOW}  - List users: /usr/local/bin/manage_htpasswd.sh list${NC}"
 echo -e "${AQUA}\n==================================================${NC}"
 
