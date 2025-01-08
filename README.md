@@ -27,7 +27,7 @@ Ensure the following before running the script:
 
 ## Installation
 
-1. Download the script using curl or wget:
+1. Download the script using **curl** or **wget**:
    ```bash
    # Using curl
    curl -O https://raw.githubusercontent.com/H1ghSyst3m/Neko-Room-Installer/main/neko-room-installer.sh
