@@ -27,15 +27,18 @@ Ensure the following before running the script:
 
 ## Installation
 
-1. Clone this repository:
+1. Download the script using curl or wget:
    ```bash
-   git clone https://github.com/H1ghSyst3m/Neko-Room-Installer.git
-   cd neko-rooms-installer
+   # Using curl
+   curl -O https://raw.githubusercontent.com/H1ghSyst3m/Neko-Room-Installer/main/neko-room-installer.sh
+   
+   # Using wget
+   wget https://raw.githubusercontent.com/H1ghSyst3m/Neko-Room-Installer/main/neko-room-installer.sh
    ```
 
 2. Run the installer script:
    ```bash
-   sudo ./neko-room-installer.sh
+   sudo bash neko-room-installer.sh
    ```
 
 3. Follow the prompts to configure your domain, email, and other settings.
